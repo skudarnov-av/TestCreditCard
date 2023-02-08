@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class test_web_card {
+public class test_web {
 
     private WebDriver driver;
 
