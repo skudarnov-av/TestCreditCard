@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e788puot5kkj6vyv/branch/main?svg=true)](https://ci.appveyor.com/project/Fredik66/testcreditcard/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/riaj37y2cs7b6fjc/branch/main?svg=true)](https://ci.appveyor.com/project/skudarnov-av/testcreditcard-25cu8/branch/main)
